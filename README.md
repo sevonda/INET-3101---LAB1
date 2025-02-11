@@ -60,7 +60,7 @@ Enter your choice:
    **`Comp_Lab1.c`**  
   *(C Compile code file)*  
   Contains the full program compiled implementation
-- **`CQ_README_LAB1.md`**  
+- **`README.md`**  
   *(documentation file)*  
   Contains this design document and project details.
   
