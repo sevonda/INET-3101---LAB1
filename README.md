@@ -57,7 +57,7 @@ Enter your choice:
 - **`CaldasQuiroga_Lab1.c`**  
   *(C source code file)*  
   Contains the full program implementation
-   **`Comp_Lab1.c`**  
+- **`Comp_Lab1.c`**  
   *(C Compile code file)*  
   Contains the full program compiled implementation
 - **`README.md`**  
